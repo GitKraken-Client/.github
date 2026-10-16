@@ -31,7 +31,7 @@ Use GitKraken to inspect working changes, stage files, compare revisions, manage
 
 ## Understanding the Commit Graph
 
-![GitKraken Commit Graph Interface](https://help.gitkraken.com/wp-content/uploads/2023/06/commit-graph.png)
+![GitKraken Commit Graph Interface](https://gitkraken.com/wp-content/uploads/2026/06/GK_GIJ_product-image-1024x764.png)
 
 The commit graph provides a visual overview of repository history. Branch lines and commit nodes help explain how separate development paths relate to one another.
 
